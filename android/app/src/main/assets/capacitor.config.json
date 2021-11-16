@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "App",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "studio",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
